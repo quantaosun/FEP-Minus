@@ -12,4 +12,9 @@ One of the most reliable free FEP for med chem inhibitor optimisation, one to ru
 
 If you use AI Studio https://aistudio.baidu.com/aistudio , please set "USER" to "aistudio"
 
+下面是一个快速的中文简介
+
+![image](https://user-images.githubusercontent.com/75652473/172171197-218b3201-2316-4492-87fb-a8a1e516fb9a.png)
+
+
 
