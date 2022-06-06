@@ -11,3 +11,5 @@ One of the most reliable free FEP for med chem inhibitor optimisation, one to ru
 
 
 If you use AI Studio https://aistudio.baidu.com/aistudio , please set "USER" to "aistudio"
+
+
