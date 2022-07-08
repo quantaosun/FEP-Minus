@@ -23,9 +23,5 @@ The two ligands binds to the pocket in quite different modes, even they share gr
 
 Note 60% is my personal view of a similarity boundary, you could argue it could be 70% or 50%.
 
-下面是一个快速的中文简介
-
-![image](https://user-images.githubusercontent.com/75652473/172171197-218b3201-2316-4492-87fb-a8a1e516fb9a.png)
-
 
 
