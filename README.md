@@ -1,9 +1,7 @@
 
 ## Here comes FEP-Minus
 
-It is crazy to imagine how expensive the commercial-free-energy-calculation software FEP Plus is. Well, it is not crazy for you until it is, especially for financially poor background people or groups.
-
-The calculation logic is the same as the commercial version, so the accuracy is the same.
+The calculation logic is the same as the FEP-Plus, so the accuracy is the same.
 
 This notebook can allow you directly run an FEP calculation in the free Google Colab (Free, at least at the time this was created, but I know things are getting weird since Colab decided to count hours now to force you to pay for GPU).
 
