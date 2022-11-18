@@ -28,6 +28,6 @@ The binding pocket is highly flexible or changes a lot upon binindg to ligand.
 
 The two ligands share a similarity less than 60%.
 
-The two ligands binds to the pocket in quite different modes, even they share greater than 60% chemical similarity.
+*The two ligands binds to the pocket in quite different modes, even they share greater than 60% chemical similarity.*
 
 Note 60% is my personal view of a similarity boundary, you could argue it could be 70% or 50%.
