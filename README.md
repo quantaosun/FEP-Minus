@@ -8,7 +8,7 @@ This notebook can allow you directly run an FEP calculation in the free Google C
 
 A typical calculation for a protein with 300 to 400 amino acids could finish within 8 hours with a Tesla V100. Suppose you can not use the free GPU from Google Colab, which is volatile from time to time, user to user. Please consider spending the money on a cup (or two/three) of coffee to buy some GPU hours. It is nothing compared to your cost for each job using commercial software.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/quantaosun/FEP-Minus/blob/main/FEP-Minus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/FEP-Minus/blob/main/FEP-Minus.ipynb)
 
 ## Pre-condition. Apply Desmond from the D.E.Shaw research group.
 
